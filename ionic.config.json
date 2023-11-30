@@ -1,0 +1,8 @@
+{
+  "name": "Ionic-vue-nav-root-params",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "c64c7434"
+}
